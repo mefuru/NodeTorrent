@@ -1,0 +1,7 @@
+{
+    "name": "nodeTorrent",
+    "dependencies": {
+        "bencode-js": "0.0.7",
+        "bencode" : "0.4.3"
+    }
+}
